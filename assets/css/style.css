@@ -1,0 +1,33 @@
+body{
+    margin: 0 !important;
+    margin-top: 0;
+    border: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#portada{
+    background-image: url(../image/portada.jpg);
+    height: 40vh;
+    margin: 0;
+}
+#frase{
+    margin: 0;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding-top: 15vh;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#indice{
+    padding-left: 30px;
+    color: rgb(13, 119, 129);
+    font-size: 20px;
+}
+li{
+    padding-bottom: 10px;
+}
+a{
+    text-decoration: none;
+    color: rgb(13, 119, 129);
+}
