@@ -1,21 +1,55 @@
 body{
+    margin: 0;
     background-color: green;
-    margin: 0px;
+    margin: 20px 30px;
 }
+.container{
+    margin:5px ;
+    width: 60%;
 
-header{
-    background-color: rgb(241, 200, 146);
-    margin: 10px 40px;
-    
-    height: 15vh;
-
+    float: left;
+    background-color: rgb(255, 208, 121);
+    text-align: center;
 }
 .titulo{
-    padding: 15px 10px;
+    margin: 0;
+    background: rgb(255, 208, 121);
+    padding: 20px;
 }
-#bloques{
-    background-color: rgb(238, 211, 175);
-    margin: 20px 40px;
-    padding: 5px 20px; margin: 0;
-    padding: 0;
+header{
+    background-color: rgb(173, 173, 173);
+    padding: 5px;
+}
+.menu li{
+    font-size: large;
+    font-weight: bold;
+    padding: 5px;
+    display: inline-block;
+}
+.row1{
+    border-top: 30px;
+    background-color: red;
+}
+.row2{
+    border-top: 30px;
+    background-color: blue;
+}
+
+.logo{
+    width: 200px;
+}
+.comentario{
+    float: right;
+    padding-right: 20px;
+}
+article{
+    display: inline-block;
+    border: 1px solid black;
+    width: 35%;
+    padding: 45px 20px;
+    margin: 10px 2px;
+  
+}
+.columna{
+    background-color: rgb(241, 196, 136);
 }
