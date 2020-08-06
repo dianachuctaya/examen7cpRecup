@@ -1,0 +1,21 @@
+body{
+    background-color: green;
+    margin: 0px;
+}
+
+header{
+    background-color: rgb(241, 200, 146);
+    margin: 10px 40px;
+    
+    height: 15vh;
+
+}
+.titulo{
+    padding: 15px 10px;
+}
+#bloques{
+    background-color: rgb(238, 211, 175);
+    margin: 20px 40px;
+    padding: 5px 20px; margin: 0;
+    padding: 0;
+}

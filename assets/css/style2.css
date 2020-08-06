@@ -1,0 +1,34 @@
+
+body{
+    background-color: green;
+    margin: 0px;
+}
+
+#bloques{
+    display: inline-block;
+    margin: 20px 40px;
+  
+
+}
+.articulo1{
+      display: inline-block;
+    width: 45%;
+    margin-left: 10px;
+    padding: 10px;
+    align-content: center;
+    text-align: center;
+    background-color: red;
+    height: auto;
+    
+}
+.articulo2{
+      display: inline-block;
+   width: 45%;
+    margin-left: 10px;
+    padding: 10px;
+    align-content: center;
+    text-align: center;
+    background-color: blue;
+    height: auto;
+}
+
